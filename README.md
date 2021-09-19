@@ -1,0 +1,2 @@
+# mysqllocal
+Running mysql locally
